@@ -6,7 +6,7 @@ Este SDK não oficial permite a integração com a API da Appmax de forma simple
 
 ## Requisitos
 
-- PHP 7.4 ou superior
+- PHP 8.1 ou superior
 - Extensão cURL habilitada
 
 ## Instalação
