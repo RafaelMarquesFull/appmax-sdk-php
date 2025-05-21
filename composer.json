@@ -16,5 +16,6 @@
         {
             "name": "Rafael da Silva Marques"
         }
-    ]
+    ],
+    "minimum-stability": "stable"
 }

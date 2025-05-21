@@ -16,7 +16,7 @@ Este SDK não oficial permite a integração com a API da Appmax de forma simple
 3. Inclua o autoloader:
 
 ```php
-require_once 'caminho/para/appmax-sdk-php/src/autoload.php';
+composer require appmax/appmax_api_sdk_php 
 ```
 
 ## Uso Básico
