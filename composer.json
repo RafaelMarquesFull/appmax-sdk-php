@@ -1,0 +1,20 @@
+{
+    "name": "appmax/appmax_api_sdk_php",
+    "description": "SDK não oficial para consumo da API da Appmax em PHP",
+    "version": "1.0.0",
+    "type": "library",
+    "require": {
+        "php": ">=8.1",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "files": ["src/autoload.php"]
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafael da Silva Marques"
+        }
+    ]
+}
